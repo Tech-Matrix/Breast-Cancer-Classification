@@ -77,7 +77,7 @@ What things you need to install the software and how to install them.
 - [Numpy](https://numpy.org/doc/)
 - [Matplotlib](https://matplotlib.org/stable/contents.html)
 
-## TO-DO
+## 📃 TO-DO
 * Re-construct image by extracting x-y coordinates from filenames.
 * Detect in each 50x50 swatch
 * Highlight +ve cases by localization.
